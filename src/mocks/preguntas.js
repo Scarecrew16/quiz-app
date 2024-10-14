@@ -9,7 +9,7 @@ const preguntas = [
       ],
     },
     {
-      titulo: "Con Lasfito aprendes de tutoriales...?",
+      titulo: "Naruto no sería naruto sin...?",
       opciones: [
         { textoRespuesta: "sin contenido", isCorrect: false },
         { textoRespuesta: "sin relleno", isCorrect: true },
@@ -27,12 +27,12 @@ const preguntas = [
       ],
     },
     {
-      titulo: "¿En qué año fue creado JavaScript?",
+      titulo: "¿Cuando es el cumpleaños de guillermo del toro?",
       opciones: [
-        { textoRespuesta: "1997", isCorrect: false },
-        { textoRespuesta: "2001", isCorrect: false },
-        { textoRespuesta: "1987", isCorrect: false },
-        { textoRespuesta: "1995", isCorrect: true },
+        { textoRespuesta: "15 de Enero", isCorrect: false },
+        { textoRespuesta: "17 de agosto", isCorrect: false },
+        { textoRespuesta: "28 de diciembre", isCorrect: false },
+        { textoRespuesta: "09 de octubre", isCorrect: true },
       ],
     },
   ];
